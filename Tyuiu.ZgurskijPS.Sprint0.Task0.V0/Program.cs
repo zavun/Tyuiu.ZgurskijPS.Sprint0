@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tyuiu.ZgurskijPS.Sprint0
+namespace Tyuiu.ZgurskijPS.Sprint0.Task0.V0
 {
     internal class Program
     {
